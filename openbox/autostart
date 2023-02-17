@@ -1,0 +1,7 @@
+polkit-dumb-agent &
+picom &
+nitrogen --restore &
+numlockx &
+sxhkd &
+polybar &
+tint2 &

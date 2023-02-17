@@ -1,0 +1,7 @@
+# Rofi
+super
+	rofi -show drun
+
+#pcmanfm
+super + e
+	pcmanfm
